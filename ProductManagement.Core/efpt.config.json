@@ -1,0 +1,65 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "ProductStoreDBContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "ProductManagement.Core",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Categories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CategoriesMetadata]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Products]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductsMetadata]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Roles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserRoles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Users]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-31MDEQI.ProductStoreDB",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": true,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": true,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

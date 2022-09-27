@@ -1,0 +1,13 @@
+﻿using ProductManagement.Core.Models;
+using System.Collections.Generic;
+
+namespace ProductManagement.API.Dtos
+{
+    public class CategoryDto
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public IEnumerable<Metadata> CategoryMetadata { get; set; }
+
+    }
+}
